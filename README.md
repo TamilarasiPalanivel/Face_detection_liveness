@@ -3,16 +3,6 @@
 
 This project implements a face liveness detection system using a combination of deep learning techniques, including a YOLOv5 trained model, a Convolutional Neural Network (CNN), and ONNX for model inference. The system also integrates virtual camera prevention and a deepfake detection model based on FaceForensics++.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Virtual Camera Prevention](#virtual-camera-prevention)
-- [Deepfake Detection](#deepfake-detection)
-- [References](#references)
-
 ## Introduction
 Face liveness detection is crucial for preventing spoofing attacks in facial recognition systems. This project uses multiple models to enhance robustness against attacks, including the use of printed images, videos, and deepfakes.
 
